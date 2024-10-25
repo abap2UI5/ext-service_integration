@@ -1,5 +1,5 @@
 # abap2UI5 Frontend
-🚀 [Getting Started](https://abap2ui5.github.io/docs/) <br>
+🚀 [Getting Started](https://abap2ui5.github.io/docs/configuration/installation.html) <br>
 🐞 [Report Issues](https://github.com/abap2UI5/abap2UI5/issues) 
 <br>
 #### Branch classic:
