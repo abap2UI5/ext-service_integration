@@ -11,7 +11,3 @@
 * S/4 Public Cloud
 * BTP ABAP Environment
 * BTP Workzone
-
-Installation for ABAP Cloud:
-
-https://developers.sap.com/tutorials/abap-s4hanacloud-procurement-purchasereq-shop-ui..html#4c15de5c-bce6-46d0-a634-0008261b3117
