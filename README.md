@@ -2,7 +2,7 @@
 🚀 [More Information...](https://abap2ui5.github.io/docs/configuration/installation.html) <br>
 🐞 [Report Issues](https://github.com/abap2UI5/abap2UI5/issues) 
 <br>
-#### Branch classic:
+#### Branch standard:
 * S/4 Private Cloud
 * S/4 On-Premise
 * R/3 Netweaver
